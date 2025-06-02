@@ -64,10 +64,6 @@ Langkah-langkah menggunakan sistem machine learning berbasis random forest adala
 4. Hasil prediksi akan tampil di bagian bawah. Akan tetapi, pesan error akan muncul apabila pengguna tidak memilih jurusan atau Course.
 
 
-```
-
-```
-
 ## Conclusion
 - Faktor yang paling memengaruhi siswa untuk dropout adalah biaya pendidikan terbaru. Sebanyak 32,2% siswa dengan biaya pendidikan terbaru melakukan dropout. Bisa jadi, biaya terbaru yang ditetapkan dianggap terlalu tinggi bagi sebagian mahasiswa sehingga melakukan dropout. Ditambah lagi, apabila biaya terbaru tersebut terlalu tinggi juga akan mendorong siswa melakukan hutang, padahal 22% dari pelaku dropout adalah penghutang.
 - Sebagian besar dari penerima beasiswa tidak melakukan dropout (dropout rate sebesar 10%).
