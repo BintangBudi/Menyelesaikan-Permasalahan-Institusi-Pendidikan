@@ -55,7 +55,7 @@ Langkah-langkah menggunakan sistem machine learning berbasis random forest adala
 
 <img src="img\BintangBudiPangestu_dicoding-dashboard2.png" alt="alt text" width="whatever" height="whatever">
 
-1. Membuka link https://ardinadnn-student-performance.streamlit.app/
+1. Membuka link https://menyelesaikan-permasalahan-institusi-pendidikan-2ayqnzcldqblm8.streamlit.app/
 
 2. Memilih "Prediction" pada taskbar di sisi kiri.
 
