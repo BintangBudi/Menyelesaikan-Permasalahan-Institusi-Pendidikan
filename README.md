@@ -53,7 +53,7 @@ Link: https://ardinadnn-student-performance.streamlit.app/
 ## Menjalankan Sistem Machine Learning
 Langkah-langkah menggunakan sistem machine learning berbasis random forest adalah sebagai berikut.
 
-<img src="img\BintangBudiPangestu_dicoding-dashboard1.png" alt="alt text" width="whatever" height="whatever">
+<img src="img\BintangBudiPangestu_dicoding-dashboard2.png" alt="alt text" width="whatever" height="whatever">
 
 1. Membuka link https://ardinadnn-student-performance.streamlit.app/
 
