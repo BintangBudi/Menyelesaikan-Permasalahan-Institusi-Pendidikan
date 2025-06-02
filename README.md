@@ -53,23 +53,15 @@ Link: https://ardinadnn-student-performance.streamlit.app/
 ## Menjalankan Sistem Machine Learning
 Langkah-langkah menggunakan sistem machine learning berbasis random forest adalah sebagai berikut.
 
+<img src="img\BintangBudiPangestu_dicoding-dashboard1.png" alt="alt text" width="whatever" height="whatever">
+
 1. Membuka link https://ardinadnn-student-performance.streamlit.app/
 
 2. Memilih "Prediction" pada taskbar di sisi kiri.
 
-<center><img src="img\taskbar.png" alt="alt text" width="whatever" height="whatever"></center>
-
-<center><img src="img\prediksi1.png" alt="alt text" width="whatever" height="whatever"></center>
-
 3. Mengisi data yang dibutuhkan. Perlu diperhatikan bahwa nilai jurusan atau Course tidak boleh 'None' serta terdapat batas minimum dan maksimum pada input numerik. Selain itu, pengguna harus menekan enter agar dapat menyimpan data numerik.
 
-<center><img src="img\prediksi2.png" alt="alt text" width="whatever" height="whatever"></center>
-
 4. Hasil prediksi akan tampil di bagian bawah. Akan tetapi, pesan error akan muncul apabila pengguna tidak memilih jurusan atau Course.
-
-<center><img src="img\prediksi3.png" alt="alt text" width="whatever" height="whatever"></center>
-
-<center><img src="img\prediksi4.png" alt="alt text" width="whatever" height="whatever"></center>
 
 
 ```
