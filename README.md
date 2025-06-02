@@ -31,7 +31,7 @@ pip install -r requirements.txt
 
 ## Business Dashboard
 
-<img src="img\dashboard_final.png" alt="alt text" width="whatever" height="whatever">
+<img src="img\BintangBudiPangestu_dicoding-dashboard1.png" alt="alt text" width="whatever" height="whatever">
 
 Pada bagian atas dashboard, terdapat empat slicer yang bertujuan untuk membantu pengguna menfilter sesuai kebutuhan. Slicer tersebut terdiri dari sebagai berikut.
 1. Status - terdiri dari "Dropout" dan "Not Dropout". Jika pengguna memilih "Not Dropout", pengguna dapat memilah lebih lanjut menjadi "Enrolled" dan "Graduated".
