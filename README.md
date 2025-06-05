@@ -28,6 +28,10 @@ python -m venv newenv
 ```
 pip install -r requirements.txt
 ```
+4. Menjalankan Proyek
+```
+streamlit run app.py
+```
 
 ## Business Dashboard
 
