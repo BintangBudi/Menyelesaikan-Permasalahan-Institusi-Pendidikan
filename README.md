@@ -75,7 +75,7 @@ Langkah-langkah menggunakan sistem machine learning berbasis random forest adala
 - Jurusan yang memiliki dropout rate tertinggi adalah Biofuel Production Technologies (66,67%) diikuti oleh Equinculture (55,32%) dan Informatics Engineering (54,12%).
 
 ### Rekomendasi Action Items
-Berikan beberapa rekomendasi action items yang harus dilakukan Jaya Jaya Institute guna menyelesaikan masalah tingginya dropout rate diantaranya sebagai berikut.
+Beberapa rekomendasi action items yang harus dilakukan Jaya Jaya Institute guna menyelesaikan masalah tingginya dropout rate diantaranya sebagai berikut.
 - Menyelidiki apakah biaya pendidikan terbaru yang ditetapkan merupakan keputusan yang tepat.
 - Mengawasi siswa yang mengalami penurunan nilai. Selain itu, dapat juga dilakukan dengan meningkatkan tenaga kerja sehingga siswa semakin paham akan pelajaran yang diajarkan dan tidak melakukan dropout.
 - Melakukan evaluasi terhadap setiap jurusan, khususnya pada Biofuel Production Technologies yang memiliki siswa relatif sedikit (12 orang) namun memiliki dropout rate yang tinggi. Evaluasi dapat dilakukan dengan meninjau kualitas pengajar dan materi yang diberikan. Jurusan Equinculture juga dapat diawasi khususnya pada siswa pria karena memiliki dropout rate yang tinggi (64,516%) padahal memiliki jumlah siswa yang relatif sedang yaitu 62 siswa. Pada jurusan Informatic Engineering juga harus dilakukan pengawasan pada siswa wanita karena 6 dari 7 siswa wanita melakukan dropout.
